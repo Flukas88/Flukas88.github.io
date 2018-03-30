@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Leaving McAfee!
+comments: true
 ---
 
 ## Leaving is always a sad moment...
