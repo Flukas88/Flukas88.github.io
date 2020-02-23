@@ -4,4 +4,4 @@ title: New beginnings
 comments: true
 ---
 
-Almost time for the USA trip!
+I decided to once again try to blog.
