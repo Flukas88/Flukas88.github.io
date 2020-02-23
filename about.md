@@ -6,10 +6,7 @@ permalink: /about/
 
 ### What I do
 
-Currently I'm working as a Systems Engineering Lead @ [Salesforce](https://www.salesforce.com/).
-
-
-_Anything_ that I post doesn't reflect the view of my employer but only *mine*
+Currently working as a Systems Engineering Lead @ [Salesforce](https://www.salesforce.com/) and managing infrastructure patching using golang and postgres, _anything_ that I post doesn't reflect the view of my employer but only *mine*
 
 ### How to contact me
 
