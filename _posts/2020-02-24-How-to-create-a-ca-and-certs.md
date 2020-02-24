@@ -4,7 +4,7 @@ title: How to create a ca and certs
 comments: true
 ---
 
-Here is a snippet that can be used to create a CA and certeficates for apps.
+Here is a snippet that can be used to create a CA and certificates for apps.
 
     # create CA
     openssl genrsa -out ca.key 4096
