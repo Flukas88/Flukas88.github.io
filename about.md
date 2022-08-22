@@ -13,3 +13,8 @@ Managing infrastructure patching using golang and rust alongside postgres.\
 ### How to contact me
 
 [luca AT lucafrancesca.me](mailto:luca@lucafrancesca.me)
+
+
+### My CV
+[CV](https://lucafrancesca.me/cv.pdf).
+
