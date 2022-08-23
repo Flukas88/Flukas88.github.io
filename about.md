@@ -9,7 +9,7 @@ permalink: /about/
 Currently working as a Software Engineer Lead @ [Salesforce](https://www.salesforce.com/). \
  _Anything_ that I post doesn't reflect the view of my employer but *my own* 
 
-I’m a Software Engineer with a history of delivery of projects in QA, Produc- tion, and Mission Critical environments.
+I’m a Software Engineer with a history of delivery of projects in QA, Production, and Mission Critical environments.
 
 With proven experience in scripting, automation creation and coding on Linux based infrastructure, I integrate well in any pre-existing agile team.
 
