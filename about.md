@@ -6,7 +6,7 @@ permalink: /about/
 
 ### What I do
 
-Currently working as a Software Engineer Lead @ [Salesforce](https://www.salesforce.com/). \
+Currently working as a Cloud Engineer  @ [Unicredit](https://www.unicreditgroup.eu/en.html). \
  _Anything_ that I post doesn't reflect the view of my employer but *my own* 
 
 I’m a Software Engineer with a history of delivery of projects in QA, Production, and Mission Critical environments.
